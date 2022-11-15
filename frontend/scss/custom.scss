@@ -1,5 +1,4 @@
-
 // colores a usar
-$primary: #D9D9D9;
-
-@import "../node_modules/bootstrap/scss/bootstrap";
+$primary: #000000 !default;
+$secondary: #ff8636;
+@import "/node_modules/bootstrap/scss/bootstrap";
